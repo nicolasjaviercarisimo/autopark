@@ -1,0 +1,5 @@
+patente,tipo_vehiculo,dias,entrada,salida,minutos,solicito_lavado,costo_bruto,bonificacion,costo_estacionamiento,costo_lavado,total
+ABC123,auto,0,08:00,10:30,150,False,3300,0,3300,0,3300
+AA123BB,moto,0,14:00,15:00,60,True,800,800,0,2500,2500
+AC234DD,camioneta,0,09:00,12:00,180,True,5800,4000,1800,7500,9300
+XYZ789,auto,3,20:00,,0,False,48000,0,48000,0,48000

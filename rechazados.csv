@@ -1,0 +1,4 @@
+id,patente,tipo_vehiculo,motivo
+MOV031,BH123JJ,auto,Hora de salida (15:00) anterior o igual a la de entrada (18:00)
+MOV032,BJ234KK,tractor,Tipo de vehículo inválido: 'tractor'
+MOV033,PATENTE99,auto,Patente inválida: 'PATENTE99'

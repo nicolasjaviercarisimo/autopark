@@ -1,0 +1,22 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales (si usás uno en el futuro)
+venv/
+env/
+.venv/
+
+# Archivos de editor
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados por el proyecto (opcional, pero recomendado)
+# liquidacion.csv
+# rechazados.csv
+# liquidacion-manual.csv
+# liquidacion_ranking.csv
